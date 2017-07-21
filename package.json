@@ -1,5 +1,5 @@
 {
-  "name": "workflows",
+  "name": "lynda_gulpjs_workflows",
   "version": "0.0.1",
   "description": "a project for Gulp.js, Git, Browserify",
   "main": "index.js",
@@ -10,6 +10,14 @@
     "type": "git",
     "url": "?.git"
   },
+  "keywords": [
+    "gulpjs",
+    "javascript"
+  ],
   "author": "Rahsaan Basek",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.8"
+  }
 }
